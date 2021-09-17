@@ -2,7 +2,7 @@
 
 On this GUI, you can configure all the different events on the plugin. You can find it on the /deconfig __Command!
 
-\(Adding new GUI to this on 9/15/2021! \[I promise\]\)
+\(Adding new GUI to this on 9/14/2021!\)
 
 ![](.gitbook/assets/2021-08-25_11.21.58.png)
 
